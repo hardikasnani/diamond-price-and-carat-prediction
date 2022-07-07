@@ -1,0 +1,2 @@
+# diamond-price-and-carat-prediction
+I leveraged an algorithmic approach to predict the price and carat of the diamond using Machine Learning. Various regression models have been trained and their performance has been evaluated using the R Squared Score followed by tuning of the hyperparameters of top models. I have also carried out a trade-off based on the R Squared Score and the Run-Time to take a situational decision to select the best model.
